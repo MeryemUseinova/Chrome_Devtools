@@ -1,6 +1,6 @@
 Chrome Devtools
 Видео с выполненным сценарием:
-https://youtu.be/t_ulDhh95VE
+https://youtu.be/RsaIPecbXt4
 
 Сценарий:
 1. Открыть сайт http://itcareer.pythonanywhere.com
