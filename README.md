@@ -1,9 +1,8 @@
 # Chrome Devtools #
-================
 ***
 Видео с выполненным сценарием:
 
-https://youtu.be/RsaIPecbXt4<VIDEO ID>
+[![DevTools](![image](https://user-images.githubusercontent.com/78316537/139263189-10ecc7e2-6873-4f05-a3ff-2b88b0e5ebc5.png))](https://youtu.be/RsaIPecbXt)
 
 Сценарий:
 1. Открыть сайт http://itcareer.pythonanywhere.com
